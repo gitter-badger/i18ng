@@ -1,6 +1,8 @@
 i18ng
 =====
 
+[![Join the chat at https://gitter.im/mikefrey/i18ng](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mikefrey/i18ng?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 i18next for Angular.js
 
 ## Installation
